@@ -1,8 +1,8 @@
 # Jason Souter
 Electrical Engineering Student  
-Aspiring R&D Scientist
+Aspiring R&D Engineer
 
-Electrical Engineering student building a foundation in multiphysics systems involving electromagnetics, acoustics, intelligent sensing, wave–matter interaction, RF systems, and adaptive control integration. Interested in computational modeling, signal behavior, embedded systems, and adaptive electromagnetic and acoustic technologies, with long-term goals in advanced R&D as a Research Scientist.
+Electrical Engineering student pursuing R&D engineering in adaptive electromagnetic systems, intelligent sensing, and multispectral survivability technologies. My interests focus on the intersection of RF systems, signal processing, computational electromagnetics, embedded autonomy, and adaptive sensing architectures within contested and sensor-dense environments. I am particularly interested in low-observable systems, spectrum-aware technologies, sensor interaction, and real-time multispectral signature management across electromagnetic, thermal, acoustic, and optical domains. My technical work includes MATLAB/Simulink modeling, Python-based scientific computing, embedded C/C++, Linux environments, SDR experimentation, computational simulation, and embedded prototyping workflows. Long-term, I aim to contribute to advanced R&D involving adaptive sensing ecosystems, electromagnetic survivability systems, distributed sensing architectures, and next-generation counter-ISTAR technologies.
 
 ## Research Interest
 
