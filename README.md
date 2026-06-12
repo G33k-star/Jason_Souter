@@ -2,43 +2,28 @@
 Electrical Engineering Student  
 Aspiring R&D Engineer
 
-Electrical Engineering student pursuing R&D engineering in adaptive electromagnetic systems, intelligent sensing, and multispectral survivability technologies. My interests focus on the intersection of RF systems, signal processing, computational electromagnetics, embedded autonomy, and adaptive sensing architectures within contested and sensor-dense environments. I am particularly interested in low-observable systems, spectrum-aware technologies, sensor interaction, and real-time multispectral signature management across electromagnetic, thermal, acoustic, and optical domains. My technical work includes MATLAB/Simulink modeling, Python-based scientific computing, embedded C/C++, Linux environments, SDR experimentation, computational simulation, and embedded prototyping workflows. Long-term, I aim to contribute to advanced R&D involving adaptive sensing ecosystems, electromagnetic survivability systems, distributed sensing architectures, and next-generation counter-ISTAR technologies.
+Electrical Engineering student with interests in embedded systems, intelligent sensing, electromagnetics, and cyber-physical systems. My work has involved embedded control, sensor integration, autonomous platforms, computational modeling, and hardware-software system development. I am particularly interested in how sensing, signal processing, and electromagnetic phenomena can be integrated to create adaptive and resilient engineering systems. Areas of interest include embedded autonomy, electromagnetic systems, SDR experimentation, multisensor architectures, and computational analysis using MATLAB, Python, and C/C++. Long-term, I aim to contribute to research and development involving advanced sensing systems, electronic warfare, electromagnetic technologies, and Counter-ISTAR concepts focused on detection, tracking, sensing, and survivability challenges across multiple physical domains.
 
-## Research Interest
-
-### Electromagnetics
-- Antennas & propagation
-- RF behavior
-- Electromagnetic compatibility (EMC)
-- Wave propagation environments
-- Adaptive RF technologies
-
-### Acoustics & Signal Behavior
-- Acoustic wave interaction
-- Noise and interference analysis
-- Signal attenuation
-- Resonance and propagation behavior
-- Adaptive sensing concepts
-
-### Intelligent Systems
-- Intelligent sensing systems
-- Adaptive system response
-- Embedded control integration
-- Sensor fusion concepts
-- Computational system analysis
 
 ## TECHNICAL SKILLS 
-### Electromagnetics & RF Systems: 
-Signal propagation concepts, Electromagnetic Wave Propagation, Signal Behavior, RF fundamentals 
-
-### Embedded & Control Systems: 
-Microcontroller development (Arduino, ESP, Raspberry Pi), Sensor integration, Autonomous system integration, Closed-loop control systems, real-time system response 
-
-### Scientific Computing & Modeling: 
-MATLAB (numerical modeling, signal analysis), Python (data pipelines, machine learning workflows), C/C++ (embedded control) 
-
-### Systems & Hardware Integration: 
-Hardware/software co-design, communication protocols, System-level troubleshooting and validation, Circuit analysis (KCL, KVL, transient response)
+### Scientific Computing: 
+Numerical Modeling, Data Analysis, Computational Programming
+### Engineering Fundamentals: 
+Circuit Analysis, Signal Propagation Concepts, Electromagnetic Wave Fundamentals, Engineering Physics
+### Hardware Systems: 
+Sensor Integration, Hardware Validation, System Testing, Embedded Instrumentation, Hardware/Software Co-Design
+### Programming: 
+C, C++, Python (NumPy, SciPy, SymPy, PySerial, automation, data analysis), MATLAB (numerical analysis, signal processing)
+### Embedded Platforms: 
+Arduino, ESP32, Raspberry Pi, Linux (Ubuntu, Pop!_OS)
+### Embedded Systems: 
+Bare-Metal Programming, RTOS Fundamentals, Sensor Integration & Sensor Fusion, Real-Time Embedded Systems, Close-Loop Control Systems, Hardware/Software Co-Design
+### Frameworks & Communication Protocols: 
+UART, SPI, I2C, ROS/ROS2
+### Engineering Practices: 
+System Integration, Embedded Debugging, System Validation & Troubleshooting, Autonomous Systems Integration
+### Development Tools: 
+Visual Studio Code (PlatformIO), Arduino IDE, Git, Jupyter Notebook
 
 ## Development Tools
 - Git / GitHub
