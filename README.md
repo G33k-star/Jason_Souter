@@ -99,3 +99,5 @@ Electrical Engineering student interested in embedded systems, intelligent sensi
 
 ## Links
 - [LinkedIn](www.linkedin.com/in/jason-souter-64baa4240)
+- [ResearchGate](https://www.researchgate.net/profile/Jason-Souter?ev=hdr_xprf)
+- [ORCID](https://orcid.org/0009-0002-9971-1584)
