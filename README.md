@@ -95,7 +95,6 @@ Electrical Engineering student interested in embedded systems, intelligent sensi
 - Counter-ISTAR Technologies
 - Adaptive Cyber-Physical Systems
 - Multispectral Sensing and Survivability
-- System integration for research applications
 
 ## Links
 - [LinkedIn](www.linkedin.com/in/jason-souter-64baa4240)
