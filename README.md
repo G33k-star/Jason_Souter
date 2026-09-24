@@ -113,7 +113,7 @@ Electrical Engineering student focused on embedded systems, digital signal proce
 - Jupyter Notebook
 
 ---
-**
+
 ## Current Research Interests
 My current interests are centered on embedded sensing systems and the processing of physical measurements in real time, particularly:
 - Embedded DSP Architectures
