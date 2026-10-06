@@ -5,18 +5,8 @@ Electrical Engineering student interested in developing intelligent cyber-physic
 * Embedded Systems
 * Robotics & Autonomous Systems
 * Intelligent Sensing
-* Sensor Fusion & Multimodal Sensing
-* Embedded Instrumentation
-* Real-Time Systems
 * Digital Signal Processing
-* Signal Acquisition & Analysis
-* Electromagnetic & Optical Sensing
-* Electromagnetics & RF Systems
-* Embedded Control
 * Cyber-Physical Systems
-* Hardware/Software Co-Design
-* Autonomous Sensing
-* Sensor-to-Actuator Systems
 
 ---
 
@@ -47,12 +37,9 @@ Electrical Engineering student interested in developing intelligent cyber-physic
 * Closed-Loop Control
 
 ### Platforms
-* STM32
-* ARM Cortex-M
 * ESP32
-* Arduino
+* Arduino UNO
 * Raspberry Pi
-* Linux-based Embedded Systems
 
 ---
 
@@ -73,22 +60,7 @@ Electrical Engineering student interested in developing intelligent cyber-physic
 
 ---
 
-## Digital Signal Processing
-* Discrete-Time Signal Processing
-* Sampling & Quantization
-* Digital Filtering
-* FIR / IIR Filters
-* Time-Domain Analysis
-* Frequency-Domain Analysis
-* FFT / Spectral Analysis
-* Signal Conditioning
-* Sensor Data Processing
-* Feature Extraction
-* Noise Reduction
-* Signal Detection & Estimation
-* Time-Frequency Analysis
-* Real-Time DSP
-* Fixed-Point & Floating-Point Processing
+
 
 ### Python
 * NumPy
@@ -140,43 +112,14 @@ Electrical Engineering student interested in developing intelligent cyber-physic
 
 ---
 
-## Electromagnetics & RF
-* Electromagnetic Field Theory
-* Maxwell’s Equations
-* Wave Propagation
-* Boundary Conditions
-* Antenna Fundamentals
-* Transmission Lines
-* RF Systems
-* Electromagnetic Scattering
-* Electromagnetic Interference (EMI)
-* Electromagnetic Compatibility (EMC)
-* Radar Fundamentals
-* Electromagnetic Sensing
-
-### RF / SDR
-* Software-Defined Radio
-* IQ Data
-* RF Signal Acquisition
-* Spectral Analysis
-* Digital Downconversion Concepts
-* Digital Upconversion Concepts
-* GNU Radio
-* SDR-Based Sensing
-* Real-Time RF Processing
-
----
-
 ## Communications & Interfaces
 * UART
 * SPI
 * I²C
 * CAN
-* USB Fundamentals
 * Serial Communications
 * Embedded Networking
 * Inter-Processor Communication
-* Telemetry
 * ROS / ROS2
 
 ---
@@ -202,30 +145,10 @@ Electrical Engineering student interested in developing intelligent cyber-physic
 * Visual Studio Code
 * PlatformIO
 * Arduino IDE
-* STM32CubeIDE
-* STM32CubeMX
 * GCC / GDB
-* CMake
-* Make
 * Jupyter Notebook
 
 ---
-
-## Current Research Interests
-My current interests center on embedded systems that connect physical sensing to real-time computation and action, particularly:
-* Intelligent Sensing Systems
-* Embedded DSP Architectures
-* Sensor Fusion & Multimodal Sensing
-* Electromagnetic Sensing
-* Optical & Multispectral Sensing
-* RF & Electromagnetic Systems
-* Signal Acquisition & Processing
-* Autonomous Sensing
-* Adaptive Cyber-Physical Systems
-* Real-Time Perception
-* Embedded Control & Actuation
-* Autonomous & Robotic Systems
-* Electronic Warfare & Counter-ISTAR Technologies
 
 ## Links
 - [LinkedIn](www.linkedin.com/in/jason-souter-64baa4240)
