@@ -1,5 +1,6 @@
 # Jason Souter
-Electrical Engineering student interested in intelligent sensing, digital signal processing, and embedded control systems. Particularly interested in developing cyber-physical systems that acquire measurements from their physical environment, process sensor information in real time, and respond through autonomous decision-making and control. Technical interests include embedded hardware and firmware, FPGA-based systems, electromagnetic and optical sensing, acoustic sensing, signal-processing algorithms, and sensor integration for robotics, autonomous platforms, and intelligent sensing applications.
+
+I'm an undergraduate physics student transitioning from Electrical Engineering, with an interest in understanding how waves behave and interact with the physical world. I'm particularly interested in optics and acoustics, and how physical principles can help us understand and potentially control the behavior of waves. My curiosity extends to areas such as wave scattering, wave–matter interactions, intelligent sensing, signal processing, and metamaterials. I'm also interested in developing proof of concepts.  I'm currently focused on strengthening my foundations in mathematics, physics, and scientific programming while exploring opportunities to gain research experience. My long-term goal is to pursue a PhD and become a research scientist, combining theoretical, computational, and experimental approaches to investigate wave phenomena.
 
 ---
 
