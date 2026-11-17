@@ -1,18 +1,16 @@
 # Jason Souter
 
-I'm an undergraduate physics student transitioning from Electrical Engineering, with an interest in understanding how waves behave and interact with the physical world. I'm particularly interested in optics and acoustics, and how physical principles can help us understand and potentially control the behavior of waves. My curiosity extends to areas such as wave scattering, wave–matter interactions, intelligent sensing, signal processing, and metamaterials. I'm also interested in developing proof of concepts.  I'm currently focused on strengthening my foundations in mathematics, physics, and scientific programming while exploring opportunities to gain research experience. My long-term goal is to pursue a PhD and become a research scientist, combining theoretical, computational, and experimental approaches to investigate wave phenomena.
+I'm an undergraduate physics student, transferring from electrical engineering track, interested in Applied Wave Physics, particularly the interaction between waves and matter across electromagnetic and acoustic domains. My research interests center on understanding, discovering, and exploiting physical phenomena to manipulate wave behavior. I'm particularly interested in optics, photonics, acoustics, and metamaterials, with an emphasis on programmable metasurfaces and dynamically reconfigurable structures. I hope to investigate unconventional mechanisms of wave manipulation through theoretical exploration, computational modeling, and experimental proof-of-concept development. I'm hoping that my experimental, proof-of-concept breakthroughs demonstrates the possibilities of adaptive wave control, multimodal signature management, and advanced concealment technologies. My long-term ambition is to pursue a PhD and become an experimental applied physicist, contributing to early-stage research that explores novel physical phenomena and demonstrates capabilities beyond conventional material and engineering limitations.
 
 ---
 
-# Focus Areas
-- Multimodal Physics (EM/Acoustics)
-- Intelligent/Autonomous Systems (Control Systems & Applied AI)
-- Robotics (UAV/UGV)
-- Intelligent Sensing
-- Digital Signal Processing
-- Embedded Systems
-- Cyber-Physical Systems
-- Applied Physics
+# Research Interests
+- Applied Wave Physics
+- Electromagnetism & Photonics
+- Wave-Matter Interactions
+- Metamaterials & Programmable Metasurfaces
+- Reconfigurable Wave Manipulations
+- Adaptive Signature Management & Concealment
 
 ---
 
