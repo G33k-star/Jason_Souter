@@ -22,8 +22,8 @@ I'm an undergraduate physics student, transferring from electrical engineering t
 - Computer-Aided Design (electrical & mechanical) & 3D Printing
 - Low-level programming (C/C++)
 - FPGA Firmware Design/HDL (VHDL)
-- Sensors Programming
-- Digital Signal Processing
+- Sensor Programming
+- Signal Processing
 - Simulation & Modeling (MATLAB/Simulink/Python)
 - Multi-Physics: Electromagnetics (RF/Microwave/Photonics), Acoustics
 - Python for AI & Data Analysis
